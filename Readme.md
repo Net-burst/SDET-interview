@@ -116,6 +116,13 @@ Explain **what**, **when** and **why**.
 - merge —abort
 - fork
 
+### SQL
+- SQL/noSQL
+
+- transactions
+- CAP theorem
+- ACID
+
 ### Extra
 - Mock vs stub vs spy
 - Wiremock / MockServer and similar (mock TCP server)
