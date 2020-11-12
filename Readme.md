@@ -1,5 +1,20 @@
 # AQA interview questions
 
+## Purpose
+The purpose of the interview is to determine level of hard and soft skills and to check 
+that person fits team mentally.
+
+## Approach
+- prefer open questions: ie. questions without one correct answer
+- when asking binary questions, mix yes and no questions. Don't coerce everything into yes or no
+
+## Structure
+- greeting and small-talk
+- project introduction
+- soft skills (past experience, English level, etc.)
+- hard skills
+- Q&A
+
 ## Theory
 Explain **what**, **when** and **why**.
 
@@ -16,16 +31,22 @@ Explain **what**, **when** and **why**.
 - interfaces vs abstract classes
 - annotations
 - mutable/immutable
+- override/overload
 - data types
 - lambdas
 - generics
+- collections
 - hash map
 - hash set
+- exceptions
 - try/catch/finally
+- constructor/initializer
 - static (method, variable)
 - final (class, method, variable)
 - access modifiers (default for class, interface)
 - equals and hashCode
+- optional
+- stream
 - jUnit, TestNG (annotations, configuration)
 
 ### Python
