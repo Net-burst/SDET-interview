@@ -36,6 +36,7 @@ Explain **what**, **when** and **why**.
 - lambdas
 - generics
 - collections
+- list/set
 - hash map
 - hash set
 - exceptions
