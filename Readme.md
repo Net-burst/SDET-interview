@@ -118,7 +118,6 @@ Explain **what**, **when** and **why**.
 
 ### SQL
 - SQL/noSQL
-
 - transactions
 - CAP theorem
 - ACID
