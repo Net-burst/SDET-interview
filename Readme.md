@@ -49,7 +49,7 @@ Explain **what**, **when** and **why**.
 - list/set/map
 - hash map/hash set
 - stream
-- exceptions
+- exceptions (checked/unchecked/errors)
 - try/catch/finally
 - static (method, variable)
 - final (class, method, variable)
