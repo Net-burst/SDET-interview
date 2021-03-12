@@ -15,6 +15,14 @@ that person fits team mentally.
 - hard skills
 - Q&A
 
+## Soft skills
+- Role on previous project
+- Development methodology (Scrum, Kanban, Warefrall)
+- QA process (code review, code intelligence, CI/CD)
+- Good/bad practices
+- Ideal QA/delivery process
+- Notable tools
+
 ## Theory
 Explain **what**, **when** and **why**.
 
@@ -22,33 +30,35 @@ Explain **what**, **when** and **why**.
 - OOP (4 principles, basic use cases)
 - Data Types (mutable/immutable) (primitives vs objects)
 - Data Structures (collections, streams, iterators)
-- Algorithms (Big O notation, basic algorithms)
 - Patterns / Anti-patterns
 - SOLID, DRY, YAGNI
+- Algorithms (Big O notation, basic algorithms)
 - Test framework design/architecture (basic approaches, organization, must-use patterns)
+- Limiting test run time and resource utilization / test run optimization
 
 ### Java
+- primitives/objects
+- mutable/immutable
+- var (if Java 11)
 - interfaces vs abstract classes
 - annotations
-- mutable/immutable
 - override/overload
-- data types
 - lambdas
 - generics
 - collections
-- list/set
-- hash map
-- hash set
+- list/set/map
+- hash map/hash set
+- stream
 - exceptions
 - try/catch/finally
-- constructor/initializer
 - static (method, variable)
 - final (class, method, variable)
 - access modifiers (default for class, interface)
+- constructor/initializer
 - equals and hashCode
 - optional
-- stream
-- jUnit, TestNG (annotations, configuration)
+- jUnit/TestNG/... (annotations, configuration, parallel run, parametrization)
+- Maven/Gradle/... (role, configuration, dependencies, plugins, phases)
 
 ### Python
 - mutable/immutable data types
@@ -81,17 +91,20 @@ Explain **what**, **when** and **why**.
 
 ### Selenium
 - page object
-- waits
+- waits (interaction between implicit and explicit during waiting for object to disappear)
 - remote driver
 - selectors
 - findElement/findElements return type in case of failure
+- StaleElementException
+- Element not clickable at point
 - Download/upload file
-- JS
+- JS executor
 - Actions
 - Parametrized locator
 
 ### XPath
-- differences / and // 
+- Differences / and // 
+- Differences . and ..
 - Wildcard *
 - Keyword contains
 - Search by text
@@ -100,6 +113,7 @@ Explain **what**, **when** and **why**.
 ### REST
 - methods
 - differences between PUT and POST
+- PATCH, HEAD, OPTIONS
 - components (verb, header, body, etc)
 - supported markup languages
 - status codes
@@ -118,6 +132,10 @@ Explain **what**, **when** and **why**.
 
 ### SQL
 - SQL/noSQL
+- basic syntax
+- joins
+- subqueries
+- grouping
 - transactions
 - CAP theorem
 - ACID
@@ -127,7 +145,6 @@ Explain **what**, **when** and **why**.
 - Wiremock / MockServer and similar (mock TCP server)
 - BDD (example of BDD test, when to use / not use)
 - JSON / XML
-- Build systems (Maven, Gradle, phases, limitations)
 - CI/CD (Jenkins/GitLab, integration, jobs, pipelines)
 - GitHub actions
 - Linux (command line, ssh, find/locate, pipes, editors, resource monitoring, logs, access rights)
