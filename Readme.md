@@ -47,15 +47,15 @@ Explain **what**, **when** and **why**.
 - hash map/hash set
 - stream
 - lambdas
+- optional
 - generics
+- equals and hashCode
 - exceptions (checked/unchecked/errors)
 - try/catch/finally
 - static (method, variable)
 - final (class, method, variable)
 - access modifiers (default for class, interface)
 - constructor/initializer
-- equals and hashCode
-- optional
 - jUnit/TestNG/... (annotations, configuration, parallel run, parametrization)
 - Maven/Gradle/... (role, configuration, dependencies, plugins, phases)
 
