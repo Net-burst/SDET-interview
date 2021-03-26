@@ -42,12 +42,12 @@ Explain **what**, **when** and **why**.
 - interfaces vs abstract classes
 - annotations
 - override/overload
-- lambdas
-- generics
 - collections
 - list/set/map
 - hash map/hash set
 - stream
+- lambdas
+- generics
 - exceptions (checked/unchecked/errors)
 - try/catch/finally
 - static (method, variable)
