@@ -28,7 +28,6 @@ Explain **what**, **when** and **why**.
 
 ### Computer science
 - OOP (4 principles, basic use cases)
-- Data Types (mutable/immutable) (primitives vs objects)
 - Data Structures (collections, streams, iterators)
 - Patterns / Anti-patterns
 - SOLID, DRY, YAGNI
