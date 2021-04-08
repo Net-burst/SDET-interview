@@ -95,6 +95,7 @@ Explain **what**, **when** and **why**.
 - selectors
 - findElement/findElements return type in case of failure
 - StaleElementException
+- On what part of element will Selenium click?
 - Element not clickable at point
 - Download/upload file
 - JS executor
