@@ -28,6 +28,10 @@ Explain **what**, **when** and **why**.
 
 ### General QA
 - Testing pyramid
+- When should automation start?
+- Functional vs integration vs e2e tests
+- Who should be responsible for quality?
+- Who should test?
 
 ### Computer science
 - OOP (4 principles, basic use cases)
