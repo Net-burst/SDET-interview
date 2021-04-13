@@ -26,11 +26,14 @@ that person fits team mentally.
 ## Theory
 Explain **what**, **when** and **why**.
 
+### General QA
+- Testing pyramid
+
 ### Computer science
 - OOP (4 principles, basic use cases)
 - Data Structures (collections, streams, iterators)
 - Patterns / Anti-patterns
-- SOLID, DRY, YAGNI
+- SOLID, GRASP, DRY, YAGNI
 - Algorithms (Big O notation, basic algorithms)
 - Test framework design/architecture (basic approaches, organization, must-use patterns)
 - Limiting test run time and resource utilization / test run optimization
