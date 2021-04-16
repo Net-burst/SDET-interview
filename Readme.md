@@ -42,6 +42,8 @@ Explain **what**, **when** and **why**.
 - Test framework design/architecture (basic approaches, organization, must-use patterns)
 - Limiting test run time and resource utilization / test run optimization
 
+- method vs function
+
 ### Java
 - primitives/objects
 - mutable/immutable
