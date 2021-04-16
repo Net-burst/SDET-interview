@@ -41,7 +41,6 @@ Explain **what**, **when** and **why**.
 - Algorithms (Big O notation, basic algorithms)
 - Test framework design/architecture (basic approaches, organization, must-use patterns)
 - Limiting test run time and resource utilization / test run optimization
-
 - method vs function
 
 ### Java
