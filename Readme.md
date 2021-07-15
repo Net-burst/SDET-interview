@@ -5,8 +5,8 @@ The purpose of the interview is to determine level of hard and soft skills and t
 that person fits team mentally.
 
 ## Approach
-- prefer open questions: ie. questions without one correct answer
-- when asking binary questions, mix yes and no questions. Don't coerce everything into yes or no
+- prefer open questions: ie. questions without one correct answer.
+- when asking binary questions, mix yes and no questions. Don't coerce everything into yes or no.
 
 ## Structure
 - greeting and small-talk
@@ -16,7 +16,8 @@ that person fits team mentally.
 - Q&A
 
 ## Soft skills
-- Role on previous project
+- Role on previous project (what was doing, team size, what learned, etc)
+- How frequently was your product released?
 - Development methodology (Scrum, Kanban, Warefrall)
 - QA process (code review, code intelligence, CI/CD)
 - Good/bad practices
@@ -28,10 +29,14 @@ Explain **what**, **when** and **why**.
 
 ### General QA
 - Testing pyramid
+- Test documentation
 - When should automation start?
 - Functional vs integration vs e2e tests
+- What's easier to test: monolithic application or microservices?
 - Who should be responsible for quality?
 - Who should test?
+- Shift left/right
+- Test design
 
 ### Computer science
 - OOP (4 principles, basic use cases)
