@@ -1,4 +1,4 @@
-# AQA interview questions
+# SDET interview questions
 
 ## Purpose
 The purpose of the interview is to determine level of hard and soft skills and to check 
