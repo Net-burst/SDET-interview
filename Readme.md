@@ -114,6 +114,7 @@ Explain **what**, **when** and **why**.
 - JS executor
 - Actions
 - Parametrized locator
+- DOM
 
 ### XPath
 - Differences / and // 
