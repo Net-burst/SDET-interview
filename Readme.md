@@ -21,7 +21,7 @@ that person fits team mentally.
 - Development methodology (Scrum, Kanban, Warefrall)
 - QA process (code review, code intelligence, CI/CD)
 - Good/bad practices
-- Ideal QA/delivery process
+- Ideal QA/delivery process (Jira, VCS, CI/CD)
 - Notable tools
 
 ## Theory
@@ -40,13 +40,21 @@ Explain **what**, **when** and **why**.
 
 ### Computer science
 - OOP (4 principles, basic use cases)
-- Data Structures (collections, streams, iterators)
-- Patterns / Anti-patterns
+- Design Patterns
+- Anti-patterns
 - SOLID, GRASP, DRY, YAGNI
 - Algorithms (Big O notation, basic algorithms)
+- method vs function
+
+### General QA automation
 - Test framework design/architecture (basic approaches, organization, must-use patterns)
 - Limiting test run time and resource utilization / test run optimization
-- method vs function
+- Configs
+- Cleaning
+- Logs
+- Reporting
+- CI integration
+- Tools integration
 
 ### Java
 - primitives/objects
@@ -73,11 +81,13 @@ Explain **what**, **when** and **why**.
 - Maven/Gradle/... (role, configuration, dependencies, plugins, phases)
 
 ### Python
+- code style/quality (PEP8 / PEP20)
 - mutable/immutable data types
 - constructors (how to implement?)
 - tuple vs list vs set
 - list/dict comprehension
 - the difference between v2 and v3
+- is vs ==
 - lambdas
 - generators vs iterators
 - dict
@@ -88,10 +98,15 @@ Explain **what**, **when** and **why**.
 - global/nonlocal
 - is Python interpreted or compiled
 - slicing (list, str)
+- how to reverse iterable object
+- try/catch/finally
 - keyword **pass**
 - copy/deepcopy
 - keyword **with** (context manager)
 - keyword **yield**
+- keywords break/continue/pass
+- venv / pipenv
+- _var and __var (protected vs private)
 
 ### pyTest
 - fixtures 
@@ -172,6 +187,13 @@ Explain **what**, **when** and **why**.
 - Performance (tools, concepts, isolation, bottlenecks, metrics, percentiles)
 - Monitoring (Graphite, InfluxDB, Grafana)
 - Reporting (Allure, ReportPortal)
+
+### Leadership
+- Conflicts inside the team
+- Project estimation
+- Team velocity and performance
+- Firing people
+- What to do if a team member refuses to work?
 
 ## Practical
 
