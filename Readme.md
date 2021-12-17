@@ -168,29 +168,12 @@ Explain **what**, **when** and **why**.
 - basic syntax
 - joins
 - subqueries
-- grouping
+- group by / having
+- distinct
+- union
 - transactions
 - CAP theorem
 - ACID
-
-### Extra
-- Mock vs stub vs spy
-- Wiremock / MockServer and similar (mock TCP server)
-- BDD (example of BDD test, when to use / not use)
-- JSON / XML
-- CI/CD (Jenkins/GitLab, integration, jobs, pipelines)
-- GitHub actions
-- Linux (command line, ssh, find/locate, pipes, editors, resource monitoring, logs, access rights)
-- NoSQL (time-series DBs, keys, nesting, hot keys, deduplication, normalization)
-- Message queues (RabbitMQ, Kafka, concepts, delivery guarantee)
-- VCS (Git, Mercurial) (branches, pull-requests, rebase vs merge, cherry-pick, hooks, git flow)
-- Code Intelligence (SonarQube, CheckStyle, FindBugs, pyLint)
-- Code Coverage (JaCoCo, Cobertura)
-- Cloud (cloud-native, infrastructure as a code)
-- Docker & K8s (Dockerfile, docker build context, docker-compose, networks, sharing resources, k8s: pod, service, deployment)
-- Performance (tools, concepts, isolation, bottlenecks, metrics, percentiles)
-- Monitoring (Graphite, InfluxDB, Grafana)
-- Reporting (Allure, ReportPortal)
 
 ### Docker
 - docker ps
@@ -211,12 +194,40 @@ Explain **what**, **when** and **why**.
 - Built-in environment variables
 - Useful plugins
 
+### Linux
+- logs
+- change permissions
+- open file (read/update)
+- create/rename/remove/copy file
+- default env variable value :-
+- stop process
+- find file
+
 ### Leadership
 - Conflicts inside the team
 - Project estimation
 - Team velocity and performance
 - Firing people
 - What to do if a team member refuses to work?
+
+### Extra
+- Mock vs stub vs spy
+- Wiremock / MockServer and similar (mock TCP server)
+- BDD (example of BDD test, when to use / not use)
+- JSON / XML
+- CI/CD (Jenkins/GitLab, integration, jobs, pipelines)
+- GitHub actions
+- Linux (command line, ssh, find/locate, pipes, editors, resource monitoring, logs, access rights)
+- NoSQL (time-series DBs, keys, nesting, hot keys, deduplication, normalization)
+- Message queues (RabbitMQ, Kafka, concepts, delivery guarantee)
+- VCS (Git, Mercurial) (branches, pull-requests, rebase vs merge, cherry-pick, hooks, git flow)
+- Code Intelligence (SonarQube, CheckStyle, FindBugs, pyLint)
+- Code Coverage (JaCoCo, Cobertura)
+- Cloud (cloud-native, infrastructure as a code)
+- Docker & K8s (Dockerfile, docker build context, docker-compose, networks, sharing resources, k8s: pod, service, deployment)
+- Performance (tools, concepts, isolation, bottlenecks, metrics, percentiles)
+- Monitoring (Graphite, InfluxDB, Grafana)
+- Reporting (Allure, ReportPortal)
 
 ## Practical
 
