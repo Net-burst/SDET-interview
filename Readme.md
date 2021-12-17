@@ -36,7 +36,9 @@ Explain **what**, **when** and **why**.
 - Who should be responsible for quality?
 - Who should test?
 - Shift left/right
-- Test design
+
+### Test design
+- Input field 0 - 10 (inclusive). Decimals are allowed and will be rounded to the whole number using mathematical rounding.
 
 ### Computer science
 - OOP (4 principles, basic use cases)
@@ -128,6 +130,8 @@ Explain **what**, **when** and **why**.
 - Download/upload file
 - JS executor
 - Actions
+- basic auth (http)
+- avoid loggin in every new test
 - Parametrized locator
 - DOM
 
@@ -187,6 +191,25 @@ Explain **what**, **when** and **why**.
 - Performance (tools, concepts, isolation, bottlenecks, metrics, percentiles)
 - Monitoring (Graphite, InfluxDB, Grafana)
 - Reporting (Allure, ReportPortal)
+
+### Docker
+- docker ps
+- docker stop container name
+- docker run -i -t alpine /bin/bash
+- Dockerfile: FROM, ADD, COPY, RUN, CMD, ENTRYPOINT
+- docker pull/info/stats/images
+- latest tag
+- docker-compose run
+- docker-compose build --no-cache setup
+- depends_on (compose)
+- volumes (compose)
+
+### Jenkins
+- Jobs
+- Pipelines
+- Jenkinsfile
+- Built-in environment variables
+- Useful plugins
 
 ### Leadership
 - Conflicts inside the team
