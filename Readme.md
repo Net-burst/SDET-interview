@@ -145,8 +145,10 @@ Explain **what**, **when** and **why**.
 
 ### REST
 - methods
+- differences between GET and POST
 - differences between PUT and POST
 - PATCH, HEAD, OPTIONS
+- query string
 - components (verb, header, body, etc)
 - supported markup languages
 - status codes
