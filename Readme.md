@@ -46,6 +46,8 @@ Explain **what**, **when** and **why**.
 - Anti-patterns
 - SOLID, GRASP, DRY, YAGNI
 - Algorithms (Big O notation, basic algorithms)
+- Multiple inheritance
+- Composition/aggregation vs inheritance
 - method vs function
 
 ### General QA automation
@@ -79,6 +81,7 @@ Explain **what**, **when** and **why**.
 - final (class, method, variable)
 - access modifiers (default for class, interface)
 - constructor/initializer
+- multithreading (asynchronous exectuin, reactor, locks, synchronization, thread pool, executor service, future)
 - jUnit/TestNG/... (annotations, configuration, parallel run, parametrization)
 - Maven/Gradle/... (role, configuration, dependencies, plugins, phases)
 
