@@ -17,8 +17,8 @@ that person fits team mentally.
 
 ## Soft skills
 - Role on previous project (what was doing, team size, what learned, etc)
-- How frequently was your product released?
-- Development methodology (Scrum, Kanban, Warefrall)
+- How frequently was your product released? Your involvement in the releases?
+- Development methodology (Scrum, Kanban, Warefrall). When to use what?
 - QA process (code review, code intelligence, CI/CD)
 - Good/bad practices
 - Ideal QA/delivery process (Jira, VCS, CI/CD)
@@ -30,15 +30,15 @@ Explain **what**, **when** and **why**.
 ### General QA
 - Testing pyramid
 - Test documentation
-- When should automation start?
 - Functional vs integration vs e2e tests
 - What's easier to test: monolithic application or microservices?
 - Who should be responsible for quality?
 - Who should test?
+- When should automation start?
 - Shift left/right
 
 ### Test design
-- Input field 0 - 10 (inclusive). Decimals are allowed and will be rounded to the whole number using mathematical rounding.
+- Provide test cases for application with an input field that accepts 0 - 10 numbers (inclusive). Decimals are allowed and will be rounded to the whole number using mathematical rounding. Application saves Integer in the DB.
 
 ### Computer science
 - OOP (4 principles, basic use cases)
@@ -48,17 +48,17 @@ Explain **what**, **when** and **why**.
 - Algorithms (Big O notation, basic algorithms)
 - Multiple inheritance
 - Composition/aggregation vs inheritance
-- method vs function
+- Method vs function
 
 ### General QA automation
 - Test framework design/architecture (basic approaches, organization, must-use patterns)
-- Limiting test run time and resource utilization / test run optimization
+- Metrics: limiting test run time and resource utilization / test run optimization
 - Configs
-- Cleaning
+- Data preparation and cleaning
 - Logs
 - Reporting
 - CI integration
-- Tools integration
+- Tool integration
 
 ### Java
 - primitives/objects
@@ -81,6 +81,7 @@ Explain **what**, **when** and **why**.
 - final (class, method, variable)
 - access modifiers (default for class, interface)
 - constructor/initializer
+- garbage collectors
 - multithreading (asynchronous exectuin, reactor, locks, synchronization, thread pool, executor service, future)
 - jUnit/TestNG/... (annotations, configuration, parallel run, parametrization)
 - Maven/Gradle/... (role, configuration, dependencies, plugins, phases)
@@ -106,9 +107,9 @@ Explain **what**, **when** and **why**.
 - how to reverse iterable object
 - try/catch/finally
 - keyword **pass**
-- copy/deepcopy
 - keyword **with** (context manager)
 - keyword **yield**
+- copy/deepcopy
 - keywords break/continue/pass
 - venv / pipenv
 - _var and __var (protected vs private)
@@ -147,11 +148,13 @@ Explain **what**, **when** and **why**.
 - Get parent element
 
 ### REST
+- relation to HTTP
 - methods
 - differences between GET and POST
 - differences between PUT and POST
 - PATCH, HEAD, OPTIONS
-- query string
+- idempotency
+- query string (what is used for, limitations)
 - components (verb, header, body, etc)
 - supported markup languages
 - status codes
@@ -181,16 +184,26 @@ Explain **what**, **when** and **why**.
 - ACID
 
 ### Docker
-- docker ps
-- docker stop container name
-- docker run -i -t alpine /bin/bash
+- container vs image
+- networking (network types, ports, discovery)
+- containerization vs virtualization
 - Dockerfile: FROM, ADD, COPY, RUN, CMD, ENTRYPOINT
 - docker pull/info/stats/images
 - latest tag
-- docker-compose run
-- docker-compose build --no-cache setup
-- depends_on (compose)
-- volumes (compose)
+- data persistency (volumes, mounts, permissions)
+- compose
+- swarm
+
+### Networking
+- address vs netmask
+- ISO/OSI
+- bridging vs routing vs switching
+- protocols (tcp, udp, icmp)
+- routing (BGP, OSPF)
+- DHCP
+- ARP
+- VPN and VLAN
+- packet anatomy
 
 ### Jenkins
 - Jobs
@@ -207,6 +220,12 @@ Explain **what**, **when** and **why**.
 - default env variable value :-
 - stop process
 - find file
+
+### Cloud
+- cloud native technology benefits
+- lift and shift issues
+- cloud issues
+- IaaC (Cloud Formation, Terraform, Pulumi)
 
 ### Leadership
 - Conflicts inside the team
