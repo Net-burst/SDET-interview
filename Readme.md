@@ -44,7 +44,7 @@ Explain **what**, **when** and **why**.
 - OOP (4 principles, basic use cases)
 - Design Patterns
 - Anti-patterns
-- SOLID, GRASP, DRY, YAGNI
+- Clean code (SOLID, GRASP, DRY, YAGNI)
 - Algorithms (Big O notation, basic algorithms)
 - Multiple inheritance
 - Composition/aggregation vs inheritance
@@ -140,7 +140,7 @@ Explain **what**, **when** and **why**.
 - DOM
 
 ### XPath
-- Differences / and // 
+- Differences / and //
 - Differences . and ..
 - Wildcard *
 - Keyword contains
