@@ -114,6 +114,19 @@ Explain **what**, **when** and **why**.
 - venv / pipenv
 - _var and __var (protected vs private)
 
+### Spring Boot
+- Main idea behind Spring (IoC, Proxy)
+- Differences between Spring (MVC) and Spring Boot
+- Main annotations and their roles
+- Bean scopes (default bean scope)
+- Bean cyclic dependency
+
+### Hibernate
+- Entity
+- Entity relations
+- N+1 problem
+- Transaction isolation level
+
 ### pyTest
 - fixtures 
 - fixture scopes
