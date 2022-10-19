@@ -1,7 +1,7 @@
 # SDET interview questions
 
 ## Purpose
-The purpose of the interview is to determine level of hard and soft skills and to check 
+The purpose of the interview is to determine level of hard and soft skills and to check
 that person fits team mentally.
 
 ## Approach
@@ -128,7 +128,7 @@ Explain **what**, **when** and **why**.
 - Transaction isolation level
 
 ### pyTest
-- fixtures 
+- fixtures
 - fixture scopes
 - parallelism
 - hooks
