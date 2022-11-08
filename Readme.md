@@ -7,6 +7,7 @@ that person fits team mentally.
 ## Approach
 - prefer open questions: ie. questions without one correct answer.
 - when asking binary questions, mix yes and no questions. Don't coerce everything into yes or no.
+- ask not only about **what**, but also about **when** and **why** explanations.
 
 ## Structure
 - greeting and small-talk
@@ -14,6 +15,9 @@ that person fits team mentally.
 - soft skills (past experience, English level, etc.)
 - hard skills
 - Q&A
+
+## Theory
+
 
 ## Soft skills
 - Role on previous project (what was doing, team size, what learned, etc)
@@ -23,9 +27,6 @@ that person fits team mentally.
 - Good/bad practices
 - Ideal QA/delivery process (Jira, VCS, CI/CD)
 - Notable tools
-
-## Theory
-Explain **what**, **when** and **why**.
 
 ### General QA
 - Testing pyramid
