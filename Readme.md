@@ -16,9 +16,6 @@ that person fits team mentally.
 - hard skills
 - Q&A
 
-## Theory
-
-
 ## Soft skills
 - Role on previous project (what was doing, team size, what learned, etc)
 - How frequently was your product released? Your involvement in the releases?
@@ -27,6 +24,8 @@ that person fits team mentally.
 - Good/bad practices
 - Ideal QA/delivery process (Jira, VCS, CI/CD)
 - Notable tools
+
+## Theory
 
 ### General QA
 - Testing pyramid
@@ -247,6 +246,7 @@ that person fits team mentally.
 - Team velocity and performance
 - Firing people
 - What to do if a team member refuses to work?
+- Team stabilization/working with attrition and demotivation/burnout
 
 ### Extra
 - Mock vs stub vs spy
