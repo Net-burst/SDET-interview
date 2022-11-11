@@ -82,8 +82,8 @@ that person fits team mentally.
 - access modifiers (default for class, interface)
 - constructor/initializer
 - garbage collectors
-- multithreading (asynchronous exectuin, reactor, locks, synchronization, thread pool, executor service, future)
-- jUnit/TestNG/... (annotations, configuration, parallel run, parametrization)
+- multithreading (asynchronous execution, reactor, locks, synchronization, thread pool, executor service, future)
+- jUnit/TestNG/... (testability, mock vs stub vs spy, annotations, configuration, parallel run, parametrization)
 - Maven/Gradle/... (role, configuration, dependencies, plugins, phases)
 
 ### Python
