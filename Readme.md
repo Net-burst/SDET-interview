@@ -75,13 +75,14 @@ that person fits team mentally.
 - optional
 - generics
 - equals and hashCode
+- deep clone/shallow clone
 - exceptions (checked/unchecked/errors)
 - try/catch/finally
 - static (method, variable)
 - final (class, method, variable)
 - access modifiers (default for class, interface)
 - constructor/initializer
-- garbage collectors
+- JMM (heap/stack, garbage collectors, happens before, reordering, JIT)
 - multithreading (asynchronous execution, reactor, locks, synchronization, thread pool, executor service, future)
 - jUnit/TestNG/... (testability, mock vs stub vs spy, annotations, configuration, parallel run, parametrization)
 - Maven/Gradle/... (role, configuration, dependencies, plugins, phases)
@@ -192,7 +193,9 @@ that person fits team mentally.
 - group by / having
 - distinct
 - union
-- transactions
+- indexes
+- transactions (isolation levels)
+- normalization
 - CAP theorem
 - ACID
 
