@@ -173,6 +173,17 @@ that person fits team mentally.
 - supported markup languages
 - status codes
 
+### Microservices
+- SOA vs DDD
+- REST
+- gRPC/Protobuf
+- Kubernetes
+- Service discovery
+- Cloud-agnostic tools
+- Graceful degradation
+- Circuit breaker
+- Saga
+
 ### Git
 - fetch vs pull
 - merge vs rebase
