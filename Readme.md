@@ -52,7 +52,7 @@ that person fits team mentally.
 
 ### General QA automation
 - Test framework design/architecture (basic approaches, organization, must-use patterns)
-- Metrics: limiting test run time and resource utilization / test run optimization
+- Metrics: limiting test run time and resource utilization/test run optimization
 - Configs
 - Data preparation and cleaning
 - Logs
@@ -112,21 +112,23 @@ that person fits team mentally.
 - keyword **yield**
 - copy/deepcopy
 - keywords break/continue/pass
-- venv / pipenv
+- venv/pipenv
 - _var and __var (protected vs private)
+- multithreading/asynchronous code
+- GIL
 
 ### Spring Boot
-- Main idea behind Spring (IoC, Proxy)
+- The main idea behind Spring (IoC, Proxy)
 - Differences between Spring (MVC) and Spring Boot
 - Main annotations and their roles
 - Bean scopes (default bean scope)
 - Bean cyclic dependency
 
 ### Hibernate
+- JDBC/Hibernate/Spring Data
 - Entity
 - Entity relations
 - N+1 problem
-- Transaction isolation level
 
 ### pyTest
 - fixtures
@@ -149,7 +151,7 @@ that person fits team mentally.
 - JS executor
 - Actions
 - basic auth (http)
-- avoid loggin in every new test
+- avoid login in every new test
 - Parametrized locator
 - DOM
 
@@ -172,12 +174,14 @@ that person fits team mentally.
 - components (verb, header, body, etc)
 - supported markup languages
 - status codes
+- streaming (WebSockets / HTTP2)
 
 ### Microservices
 - SOA vs DDD
 - REST
 - gRPC/Protobuf
 - Kubernetes
+- Docker
 - Service discovery
 - Cloud-agnostic tools
 - Graceful degradation
@@ -198,6 +202,7 @@ that person fits team mentally.
 
 ### SQL
 - SQL/noSQL
+- noSQL DB types (key-value, document-oriented, wide-column, time series)
 - basic syntax
 - joins
 - subqueries
@@ -207,6 +212,7 @@ that person fits team mentally.
 - indexes
 - transactions (isolation levels)
 - normalization
+- Transaction isolation level
 - CAP theorem
 - ACID
 
@@ -253,6 +259,7 @@ that person fits team mentally.
 - lift and shift issues
 - cloud issues
 - IaaC (Cloud Formation, Terraform, Pulumi)
+- Serverless
 
 ### Leadership
 - Conflicts inside the team
